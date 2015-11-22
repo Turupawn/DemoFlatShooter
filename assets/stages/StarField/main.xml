@@ -1,0 +1,10 @@
+<StageFile>
+	<Bounds x1="0" y1="0" x2="1366" y2="768"/>
+	<Misc velocity="10"/>
+	<BackLayer frame_duration="40" depth_effect_x="0" depth_effect_y="0" align_x="0" align_y="0" separation_x="0">
+		<frame image_path="StageStarFieldBackground.png" width="1366" height="768"/>
+	</BackLayer>
+	<BackLayer frame_duration="40" depth_effect_x="2" depth_effect_y="0" align_x="0" align_y="0" separation_x="0">
+		<frame image_path="MovingStarField.png" width="1414" height="698"/>
+	</BackLayer>
+</StageFile>

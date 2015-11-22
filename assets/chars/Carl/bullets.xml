@@ -1,0 +1,6 @@
+<BulletsFile>
+	<Bullet name="basic bullet" damage="20">
+		<Sprite path="basic bullet.png"/>
+		<Hitbox x="-10" y="-10" width="20" height="20" angle="0"/>
+	</Bullet>
+</BulletsFile>

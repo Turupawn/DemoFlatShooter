@@ -1,0 +1,14 @@
+<PatternsFile>
+	<Type name="demo pattern">
+		<Pattern bullet="basic bullet" velocity="10" max_velocity="15" animation_velocity="5" startup="0" cooldown="20" offset_x="20" offset_y="30"  aim_player="yes">
+			<Modifier at="20" angle="-20" aim_player="yes"/>
+			<Modifier at="30" angle="20" aim_player="yes"/>
+		</Pattern>
+		<Pattern bullet="basic bullet2" velocity="10" max_velocity="15" animation_velocity="5" startup="10" cooldown="20"  offset_x="20" offset_y="30" aim_player="yes">
+		</Pattern>
+		<Pattern bullet="basic bullet3" velocity="10" max_velocity="15" animation_velocity="5" startup="10" cooldown="20"  offset_x="30" offset_y="40" aim_player="yes">
+			<Modifier at="30" angle="20" aim_player="yes"/>
+			<Modifier at="20" angle="-20" aim_player="yes"/>
+		</Pattern>
+	</Type>
+</PatternsFile>

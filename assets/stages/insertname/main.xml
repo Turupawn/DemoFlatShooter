@@ -1,0 +1,25 @@
+<StageFile>
+	<Bounds x1="0" y1="0" x2="1366" y2="768"/>
+	<Misc velocity="10"/>
+	<BackLayer depth_effect_x="0" depth_effect_y="0" align_x="0" align_y="0" separation_x="0">
+		<frame image_path="bg6.png"/>
+	</BackLayer>
+	<BackLayer depth_effect_x="0" depth_effect_y="2" align_x="0" align_y="0" separation_x="1820">
+		<frame image_path="bg2.png"/>
+	</BackLayer>
+	<BackLayer depth_effect_x="0" depth_effect_y="6" align_x="0" align_y="0" separation_x="1600">
+		<frame image_path="bg3.png"/>
+	</BackLayer>
+	<BackLayer depth_effect_x="0" depth_effect_y="0" align_x="0" align_y="0" separation_x="570">
+		<frame image_path="bg4.png"/>
+	</BackLayer>
+	<FrontLayer depth_effect_x="3" depth_effect_y="4"  align_x="-100" align_y="200" separation_x="1366">
+		<frame image_path="bgtri.png"/>
+	</FrontLayer>
+	<FrontLayer depth_effect_x="5" depth_effect_y="4"  align_x="200" align_y="400" separation_x="2500">
+		<frame image_path="bgpent.png"/>
+	</FrontLayer>
+	<FrontLayer depth_effect_x="7" depth_effect_y="3"  align_x="300" align_y="50" separation_x="1900">
+		<frame image_path="bgstar.png"/>
+	</FrontLayer>
+</StageFile>

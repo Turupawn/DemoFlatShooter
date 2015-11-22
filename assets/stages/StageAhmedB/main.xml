@@ -1,0 +1,44 @@
+<StageFile>
+	<Bounds x1="0" y1="0" x2="1366" y2="768"/>
+	<Misc velocity="5"/>
+	<BackLayer depth_effect_x="0" depth_effect_y="0" align_x="0" align_y="0" separation_x="0">
+		<frame image_path="Stage1Background.png"/>
+	</BackLayer>
+	<FrontLayer depth_effect_x="-21" depth_effect_y="0" align_x="300" align_y="640" separation_x="3900">
+		<frame image_path="speed_line_light.png"/>
+	</FrontLayer>
+	<FrontLayer depth_effect_x="-21" depth_effect_y="0" align_x="50" align_y="680" separation_x="5900">
+		<frame image_path="speed_line_strong.png"/>
+	</FrontLayer>
+	<FrontLayer depth_effect_x="-20" depth_effect_y="0" align_x="1600" align_y="480" separation_x="5400">
+		<frame image_path="speed_line_light.png"/>
+	</FrontLayer>
+	<FrontLayer depth_effect_x="-19" depth_effect_y="0" align_x="700" align_y="320" separation_x="1600">
+		<frame image_path="speed_line_strong.png"/>
+	</FrontLayer>
+	<FrontLayer depth_effect_x="-20" depth_effect_y="0" align_x="100" align_y="120" separation_x="2300">
+		<frame image_path="speed_line_strong.png"/>
+	</FrontLayer>
+
+	<BackLayer depth_effect_x="6" depth_effect_y="0" align_x="600" align_y="0" separation_x="900">
+		<frame image_path="BigTriangleLight.png"/>
+	</BackLayer>
+	<BackLayer depth_effect_x="4" depth_effect_y="0" align_x="500" align_y="0" separation_x="1400">
+		<frame image_path="MediumTriangleStrong.png"/>
+	</BackLayer>
+	<BackLayer depth_effect_x="2" depth_effect_y="0" align_x="920" align_y="0" separation_x="3300">
+		<frame image_path="SmallTriangleMedium.png"/>
+	</BackLayer>
+	<BackLayer depth_effect_x="1" depth_effect_y="0" align_x="-100" align_y="0" separation_x="1500">
+		<frame image_path="BigVectorRight.png"/>
+	</BackLayer>
+	<BackLayer depth_effect_x="-1" depth_effect_y="0" align_x="400" align_y="0" separation_x="2200">
+		<frame image_path="BigVectorLeft.png"/>
+	</BackLayer>
+	<BackLayer depth_effect_x="0" depth_effect_y="0" align_x="-100" align_y="-140" separation_x="0">
+		<frame image_path="FogStraight.png"/>
+	</BackLayer>
+	<BackLayer depth_effect_x="5" depth_effect_y="0" align_x="-100" align_y="-130" separation_x="0">
+		<frame image_path="FogCurves.png"/>
+	</BackLayer>
+</StageFile>

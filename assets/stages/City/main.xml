@@ -1,0 +1,16 @@
+<StageFile>
+	<Bounds x1="0" y1="0" x2="1366" y2="768"/>
+	<Misc velocity="10"/>
+	<BackLayer depth_effect_x="0" depth_effect_y="0" align_x="0" align_y="0" separation_x="0">
+		<frame image_path="StageCityBackground.png"/>
+	</BackLayer>
+	<BackLayer depth_effect_x="3" depth_effect_y="0" align_x="0" align_y="0" separation_x="0">
+		<frame image_path="StageCityBuildingsBack.png"/>
+	</BackLayer>
+	<BackLayer depth_effect_x="2" depth_effect_y="0" align_x="0" align_y="0" separation_x="0">
+		<frame image_path="StageCityBuildingsMid.png"/>
+	</BackLayer>
+	<BackLayer depth_effect_x="1" depth_effect_y="0" align_x="0" align_y="0" separation_x="0">
+		<frame image_path="StageCityBuildingsFront.png"/>
+	</BackLayer>
+</StageFile>

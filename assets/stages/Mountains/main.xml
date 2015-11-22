@@ -1,0 +1,40 @@
+<StageFile>
+	<Bounds x1="0" y1="0" x2="1366" y2="768"/>
+	<Misc velocity="5"/>
+	<BackLayer depth_effect_x="0" depth_effect_y="0" align_x="0" align_y="0" separation_x="0">
+		<frame image_path="Stage1Background.png"/>
+	</BackLayer>
+	<BackLayer depth_effect_x="13" depth_effect_y="3" align_x="300" align_y="-100" separation_x="2400">
+		<frame image_path="BigTriangleStrong.png"/>
+	</BackLayer>
+	<BackLayer depth_effect_x="8" depth_effect_y="2" align_x="650" align_y="-30" separation_x="1820">
+		<frame image_path="BigTriangleMedium.png"/>
+	</BackLayer>
+	<BackLayer depth_effect_x="11" depth_effect_y="6" align_x="-300" align_y="40" separation_x="1600">
+		<frame image_path="BigTriangleLight.png"/>
+	</BackLayer>
+	<BackLayer depth_effect_x="3" depth_effect_y="0" align_x="500" align_y="0" separation_x="570">
+		<frame image_path="MediumTriangleStrong.png"/>
+	</BackLayer>
+	<BackLayer depth_effect_x="7" depth_effect_y="4" align_x="400" align_y="0" separation_x="700">
+		<frame image_path="MediumTriangleMedium.png"/>
+	</BackLayer>
+	<BackLayer depth_effect_x="4" depth_effect_y="0" align_x="1700" align_y="0" separation_x="900">
+		<frame image_path="MediumTriangleLight.png"/>
+	</BackLayer>
+	<BackLayer depth_effect_x="5" depth_effect_y="8" align_x="0" align_y="0" separation_x="1700">
+		<frame image_path="SmallTriangleStrong.png"/>
+	</BackLayer>
+	<BackLayer depth_effect_x="9" depth_effect_y="0" align_x="0" align_y="0" separation_x="850">
+		<frame image_path="SmallTriangleMedium.png"/>
+	</BackLayer>
+	<BackLayer depth_effect_x="1" depth_effect_y="9" align_x="0" align_y="9" separation_x="550">
+		<frame image_path="SmallTriangleLight.png"/>
+	</BackLayer>
+	<BackLayer depth_effect_x="5" depth_effect_y="0" align_x="500" align_y="0" separation_x="2200">
+		<frame image_path="BigVectorRight.png"/>
+	</BackLayer>
+	<BackLayer depth_effect_x="7" depth_effect_y="0" align_x="1000" align_y="0" separation_x="1900">
+		<frame image_path="BigVectorLeft.png"/>
+	</BackLayer>
+</StageFile>

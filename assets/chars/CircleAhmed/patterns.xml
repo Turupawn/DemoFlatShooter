@@ -1,0 +1,10 @@
+<PatternsFile>
+	<Type name="1">
+		<Pattern bullet="basic bullet" angle="-10" random_angle="20" velocity="0" max_velocity="25" acceleration="2" a_frequency="1" cooldown="10" offset_x="45"/>
+	</Type>
+	<Type name="2">
+		<Pattern bullet="basic bullet" angle="0" velocity="0" max_velocity="25" acceleration="2" a_frequency="1" cooldown="10"/>
+		<Pattern bullet="basic bullet" angle="-15" velocity="0" max_velocity="25" acceleration="2" a_frequency="1" cooldown="10"/>
+	</Type>
+<!-- END OF FILE -->
+</PatternsFile>

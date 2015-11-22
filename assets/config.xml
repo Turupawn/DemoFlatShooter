@@ -1,0 +1,44 @@
+<ConfigFile>
+	<User name=""/>
+	<Resolution x="1366" y="768"/>
+	<ScreenSize x="1366" y="768"/>
+	<Fullscreen enabled="yes"/>
+	<Font red="0" green="0" blue="255" size="80"/>
+	<Chars>
+		<char name="Demo"/>
+		<char name="CircleAhmed"/>
+	</Chars>
+	<Stages>
+		<stage name="StageAhmedA"/>
+		<stage name="StageAhmedB"/>
+		<stage name="StageAhmedC"/>
+		<stage name="StageAhmedD"/>
+		<stage name="StageAhmedE"/>
+<!--
+		<stage name="City"/>
+		<stage name="CityFlat"/>
+		<stage name="Mountains"/>
+		<stage name="Mountains2"/>
+		<stage name="StarField"/>
+		<stage name="FeministKillBot_normal"/>
+		<stage name="FeministKillBot_hard"/>
+		<stage name="Wawila"/>
+-->
+	</Stages>
+	<YouLose x="500" y="200" animation_velocity="5">
+		<sprite path="misc/you lose/1.png"/>
+		<sprite path="misc/you lose/2.png"/>
+		<sprite path="misc/you lose/3.png"/>
+		<sprite path="misc/you lose/4.png"/>
+		<sprite path="misc/you lose/5.png"/>
+		<sprite path="misc/you lose/6.png"/>
+	</YouLose>
+	<YouWin x="500" y="200" animation_velocity="5">
+		<sprite path="misc/you win/1.png"/>
+		<sprite path="misc/you win/2.png"/>
+		<sprite path="misc/you win/3.png"/>
+		<sprite path="misc/you win/4.png"/>
+		<sprite path="misc/you win/5.png"/>
+		<sprite path="misc/you win/6.png"/>
+	</YouWin>
+</ConfigFile>

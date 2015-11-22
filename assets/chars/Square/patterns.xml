@@ -1,0 +1,6 @@
+<PatternsFile>
+	<Type name="1">
+		<Pattern bullet="basic bullet" velocity="0" max_velocity="25" acceleration="2" a_frequency="1" cooldown="10"/>
+	</Type>
+<!-- END OF FILE -->
+</PatternsFile>

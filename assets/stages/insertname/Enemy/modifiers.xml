@@ -1,0 +1,7 @@
+<ModifiersFile>
+	<Modifier at="10" pattern_type="demo pattern" velocity="5" angle="90"/>
+	<Modifier at="110" angle="-90"/>
+	<Modifier at="209" iterator="10"/>
+	<Modifier at="300" pattern_type="" velocity="5" angle="90"/>
+	<Modifier at="350" pattern_type="demo pattern" velocity="5" angle="90"/>
+</ModifiersFile>
